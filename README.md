@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and cybersecurity.
 - 🌱 I’m currently learning Python, HTML, CSS & JavaScript.
 - 💞️ I’m looking to collaborate on anything that will help me learn and become successful in tech.
-- 📫 How to reach me kazziepelzer@gmail.com
+- 📫 How to reach me kendra.cybertech@gmail.com
 - ⚡ Fun fact: My favorite color is blue!
 
 <!---
